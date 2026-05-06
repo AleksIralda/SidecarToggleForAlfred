@@ -1,4 +1,4 @@
-# Sidecar Toggle for Alfred
+# iPad Sidecar Connect for Alfred
 
 A lightning-fast, frictionless Alfred Workflow to connect and disconnect macOS Sidecar devices. 
 
@@ -34,7 +34,7 @@ Note: You may be prompted to enter your macOS administrator password during the 
 
 ### 2. Install the Alfred Workflow
 
-1. Download the latest Sidecar-Toggle.alfredworkflow from the Releases tab.
+1. Download the latest iPadSidecarConnect.alfredworkflow from the Releases tab.
 2. Double-click the file to import it into Alfred.
 
 ## Usage
